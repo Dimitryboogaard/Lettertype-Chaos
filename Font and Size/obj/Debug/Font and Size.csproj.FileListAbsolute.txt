@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Test\Font & Size\Font and Size\Font and Size\bin\Debug\Font and Size.exe.config
+C:\Users\diem\source\repos\Test\Font & Size\Font and Size\Font and Size\bin\Debug\Font and Size.exe
+C:\Users\diem\source\repos\Test\Font & Size\Font and Size\Font and Size\bin\Debug\Font and Size.pdb
+C:\Users\diem\source\repos\Test\Font & Size\Font and Size\Font and Size\obj\Debug\Font and Size.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\Font & Size\Font and Size\Font and Size\obj\Debug\Font_and_Size.Form1.resources
+C:\Users\diem\source\repos\Test\Font & Size\Font and Size\Font and Size\obj\Debug\Font_and_Size.Properties.Resources.resources
+C:\Users\diem\source\repos\Test\Font & Size\Font and Size\Font and Size\obj\Debug\Font and Size.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Test\Font & Size\Font and Size\Font and Size\obj\Debug\Font and Size.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\Font & Size\Font and Size\Font and Size\obj\Debug\Font and Size.exe
+C:\Users\diem\source\repos\Test\Font & Size\Font and Size\Font and Size\obj\Debug\Font and Size.pdb
